@@ -1,0 +1,6 @@
+{
+    "sensitivity": 2.4,
+    "smoothing": 6,
+    "click_distance": 0.07,
+    "margin": 45
+}
